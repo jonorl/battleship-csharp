@@ -1,3 +1,10 @@
+/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/battleship-csharp.csproj.AssemblyReference.cache
+/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/battleship-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/battleship-csharp.AssemblyInfoInputs.cache
+/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/battleship-csharp.AssemblyInfo.cs
+/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/battleship-csharp.csproj.CoreCompileInputs.cache
+/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/battleship-csharp.MvcApplicationPartsAssemblyInfo.cache
+/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/battleship-csharp.sourcelink.json
 /home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/battleship-csharp.pdb
 /home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/battleship-csharp.wasm
 /home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json
@@ -256,7 +263,6 @@
 /home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Formats.Asn1.wasm.gz
 /home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Security.Cryptography.OpenSsl.wasm.gz
 /home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Runtime.Loader.wasm.gz
-/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js.gz
 /home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.wasm.gz
 /home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.IO.FileSystem.wasm.gz
 /home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Extensions.FileSystemGlobbing.wasm.gz
@@ -275,6 +281,7 @@
 /home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Text.Encoding.wasm.gz
 /home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.IO.Compression.Brotli.wasm.gz
 /home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Runtime.Numerics.wasm.gz
+/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js.gz
 /home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Xml.XmlDocument.wasm.gz
 /home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Configuration.wasm.gz
 /home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.IO.Pipes.wasm.gz
@@ -609,13 +616,6 @@
 /home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/icudt_CJK.dat
 /home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/icudt_EFIGS.dat
 /home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/icudt_no_CJK.dat
-/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/battleship-csharp.csproj.AssemblyReference.cache
-/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/battleship-csharp.GeneratedMSBuildEditorConfig.editorconfig
-/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/battleship-csharp.AssemblyInfoInputs.cache
-/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/battleship-csharp.AssemblyInfo.cs
-/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/battleship-csharp.csproj.CoreCompileInputs.cache
-/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/battleship-csharp.MvcApplicationPartsAssemblyInfo.cache
-/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/battleship-csharp.sourcelink.json
 /home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Authorization.wasm
 /home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Components.wasm
 /home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Components.Forms.wasm
@@ -818,10 +818,10 @@
 /home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.battleship-csharp.props
 /home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/staticwebassets.pack.json
 /home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/scopedcss/Layout/MainLayout.razor.rz.scp.css
-/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/scopedcss/Layout/NavMenu.razor.rz.scp.css
+/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/scopedcss/Pages/Home.razor.rz.scp.css
 /home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/scopedcss/bundle/battleship-csharp.styles.css
 /home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/scopedcss/projectbundle/battleship-csharp.bundle.scp.css
-/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/9fx8ddx1s2.gz
+/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/c9to0mb1pu.gz
 /home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/q4rn5hwu7w.gz
 /home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/jac2iwgh4l.gz
 /home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/gcygw05hho.gz

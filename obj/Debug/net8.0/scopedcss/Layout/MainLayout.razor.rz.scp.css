@@ -1,77 +1,146 @@
-.page[b-kzm96nzhgp] {
-    position: relative;
-    display: flex;
+*[b-kzm96nzhgp] {
+  background-color: black;
+  color: aliceblue;
+  font-size: large;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body[b-kzm96nzhgp] {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.controls[b-kzm96nzhgp] {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+button[b-kzm96nzhgp] {
+  padding: 15px 25px;
+  border-radius: 25px;
+  border: solid aliceblue 3px;
+  background-color: black;
+  color: aliceblue;
+  cursor: pointer;
+  font-size: large;
+}
+
+button:hover[b-kzm96nzhgp] {
+  background-color: #333;
+}
+
+.game-container[b-kzm96nzhgp] {
+  display: flex;
+  gap: 50px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.board-container[b-kzm96nzhgp] {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.board-title[b-kzm96nzhgp] {
+  margin-bottom: 10px;
+  font-size: 1.2em;
+}
+
+canvas[b-kzm96nzhgp] {
+  border: 3px solid aliceblue;
+  cursor: crosshair;
+}
+
+.ships-panel[b-kzm96nzhgp] {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.ship-container[b-kzm96nzhgp] {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border: 3px solid aliceblue;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.ship[b-kzm96nzhgp] {
+  display: flex;
+  cursor: grab;
+}
+
+.ship:active[b-kzm96nzhgp] {
+  cursor: grabbing;
+}
+
+.ship-cell[b-kzm96nzhgp] {
+  width: 30px;
+  height: 30px;
+  background: red;
+  border: 2px dashed white;
+  margin: 1px;
+}
+
+.ship-cell:first-child[b-kzm96nzhgp] {
+  border-radius: 10px 0 0 10px;
+}
+
+.ship-cell:last-child[b-kzm96nzhgp] {
+  border-radius: 0 10px 10px 0;
+}
+
+.ship-cell.single[b-kzm96nzhgp] {
+  border-radius: 10px;
+}
+
+.ship.vertical .ship-cell[b-kzm96nzhgp] {
+  width: 30px;
+  height: 30px;
+}
+
+.ship.vertical .ship-cell:first-child[b-kzm96nzhgp] {
+  border-radius: 10px 10px 0 0;
+}
+
+.ship.vertical .ship-cell:last-child[b-kzm96nzhgp] {
+  border-radius: 0 0 10px 10px;
+}
+
+.ship.vertical[b-kzm96nzhgp] {
+  flex-direction: column;
+}
+
+.instructions[b-kzm96nzhgp] {
+  text-align: center;
+  max-width: 800px;
+  margin-top: 20px;
+  padding: 15px;
+  border: 3px solid aliceblue;
+  border-radius: 10px;
+}
+
+.ship.placed[b-kzm96nzhgp] {
+  opacity: 0.3;
+  pointer-events: none;
+}
+
+@media (max-width: 1200px) {
+  .game-container[b-kzm96nzhgp] {
     flex-direction: column;
-}
-
-main[b-kzm96nzhgp] {
-    flex: 1;
-}
-
-.sidebar[b-kzm96nzhgp] {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
-}
-
-.top-row[b-kzm96nzhgp] {
-    background-color: #f7f7f7;
-    border-bottom: 1px solid #d6d5d5;
-    justify-content: flex-end;
-    height: 3.5rem;
-    display: flex;
     align-items: center;
-}
-
-    .top-row[b-kzm96nzhgp]  a, .top-row[b-kzm96nzhgp]  .btn-link {
-        white-space: nowrap;
-        margin-left: 1.5rem;
-        text-decoration: none;
-    }
-
-    .top-row[b-kzm96nzhgp]  a:hover, .top-row[b-kzm96nzhgp]  .btn-link:hover {
-        text-decoration: underline;
-    }
-
-    .top-row[b-kzm96nzhgp]  a:first-child {
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
-
-@media (max-width: 640.98px) {
-    .top-row[b-kzm96nzhgp] {
-        justify-content: space-between;
-    }
-
-    .top-row[b-kzm96nzhgp]  a, .top-row[b-kzm96nzhgp]  .btn-link {
-        margin-left: 0;
-    }
-}
-
-@media (min-width: 641px) {
-    .page[b-kzm96nzhgp] {
-        flex-direction: row;
-    }
-
-    .sidebar[b-kzm96nzhgp] {
-        width: 250px;
-        height: 100vh;
-        position: sticky;
-        top: 0;
-    }
-
-    .top-row[b-kzm96nzhgp] {
-        position: sticky;
-        top: 0;
-        z-index: 1;
-    }
-
-    .top-row.auth[b-kzm96nzhgp]  a:first-child {
-        flex: 1;
-        text-align: right;
-        width: 0;
-    }
-
-    .top-row[b-kzm96nzhgp], article[b-kzm96nzhgp] {
-        padding-left: 2rem !important;
-        padding-right: 1.5rem !important;
-    }
+  }
 }

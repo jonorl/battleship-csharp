@@ -1,0 +1,146 @@
+*[b-fcmmjbz8yr] {
+  background-color: black;
+  color: aliceblue;
+  font-size: large;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body[b-fcmmjbz8yr] {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.controls[b-fcmmjbz8yr] {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+button[b-fcmmjbz8yr] {
+  padding: 15px 25px;
+  border-radius: 25px;
+  border: solid aliceblue 3px;
+  background-color: black;
+  color: aliceblue;
+  cursor: pointer;
+  font-size: large;
+}
+
+button:hover[b-fcmmjbz8yr] {
+  background-color: #333;
+}
+
+.game-container[b-fcmmjbz8yr] {
+  display: flex;
+  gap: 50px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.board-container[b-fcmmjbz8yr] {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.board-title[b-fcmmjbz8yr] {
+  margin-bottom: 10px;
+  font-size: 1.2em;
+}
+
+canvas[b-fcmmjbz8yr] {
+  border: 3px solid aliceblue;
+  cursor: crosshair;
+}
+
+.ships-panel[b-fcmmjbz8yr] {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.ship-container[b-fcmmjbz8yr] {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border: 3px solid aliceblue;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.ship[b-fcmmjbz8yr] {
+  display: flex;
+  cursor: grab;
+}
+
+.ship:active[b-fcmmjbz8yr] {
+  cursor: grabbing;
+}
+
+.ship-cell[b-fcmmjbz8yr] {
+  width: 30px;
+  height: 30px;
+  background: red;
+  border: 2px dashed white;
+  margin: 1px;
+}
+
+.ship-cell:first-child[b-fcmmjbz8yr] {
+  border-radius: 10px 0 0 10px;
+}
+
+.ship-cell:last-child[b-fcmmjbz8yr] {
+  border-radius: 0 10px 10px 0;
+}
+
+.ship-cell.single[b-fcmmjbz8yr] {
+  border-radius: 10px;
+}
+
+.ship.vertical .ship-cell[b-fcmmjbz8yr] {
+  width: 30px;
+  height: 30px;
+}
+
+.ship.vertical .ship-cell:first-child[b-fcmmjbz8yr] {
+  border-radius: 10px 10px 0 0;
+}
+
+.ship.vertical .ship-cell:last-child[b-fcmmjbz8yr] {
+  border-radius: 0 0 10px 10px;
+}
+
+.ship.vertical[b-fcmmjbz8yr] {
+  flex-direction: column;
+}
+
+.instructions[b-fcmmjbz8yr] {
+  text-align: center;
+  max-width: 800px;
+  margin-top: 20px;
+  padding: 15px;
+  border: 3px solid aliceblue;
+  border-radius: 10px;
+}
+
+.ship.placed[b-fcmmjbz8yr] {
+  opacity: 0.3;
+  pointer-events: none;
+}
+
+@media (max-width: 1200px) {
+  .game-container[b-fcmmjbz8yr] {
+    flex-direction: column;
+    align-items: center;
+  }
+}

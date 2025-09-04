@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dHM73Jx7zmwWMfro+aZXuYTV1OODyhTImBxn5ld/964=",
+  "Hash": "lAdCc5rm/wRb+rVE6x2RWrRq5NI1d0I2VBaXSQYKm5Q=",
   "Source": "battleship-csharp",
   "BasePath": "/",
   "Mode": "Root",
@@ -90,7 +90,7 @@
       "AssetTraitValue": "boot",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/jonorl/.nuget/packages/microsoft.aspnetcore.components.webassembly/8.0.19/build/net8.0/blazor.webassembly.js"
+      "OriginalItemSpec": "/home/jonorl/.nuget/packages/microsoft.aspnetcore.components.webassembly/8.0.0/build/net8.0/blazor.webassembly.js"
     },
     {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.js",
@@ -4919,25 +4919,6 @@
       "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Runtime.Loader.wasm"
     },
     {
-      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/9fx8ddx1s2.gz",
-      "SourceId": "battleship-csharp",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/blazor.webassembly.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js"
-    },
-    {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/9ioj1pmy3g.gz",
       "SourceId": "battleship-csharp",
       "SourceType": "Computed",
@@ -5278,6 +5259,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Runtime.Numerics.wasm"
+    },
+    {
+      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/c9to0mb1pu.gz",
+      "SourceId": "battleship-csharp",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/blazor.webassembly.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js"
     },
     {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/cfhft8djfc.gz",
@@ -7919,6 +7919,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/wwwroot/interop.js",
+      "SourceId": "battleship-csharp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "interop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/interop.js"
     },
     {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/wwwroot/sample-data/weather.json",

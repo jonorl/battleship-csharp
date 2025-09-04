@@ -1,7 +1,58 @@
 ﻿@page "/"
+@using Battleship.Models
+@using Microsoft.AspNetCore.Components.Routing
+@inject IJSRuntime JS
 
-<PageTitle>Home</PageTitle>
+<h3>Battleship - Blazor</h3>
 
-<h1>Hello, world!</h1>
+<div class="controls">
+    <button @onclick="RestartGame">Restart Game</button>
+    <button @onclick="RandomizeBoard">Randomize Board</button>
+    <button @onclick="ToggleDirection">Toggle Direction</button>
+</div>
 
-Welcome to your new app.
+<div class="game-container">
+    <div class="board-container">
+        <div class="board-title">Player's Board</div>
+        <canvas id="playerBoard" width="500" height="500"></canvas>
+    </div>
+
+    <div class="ships-panel">
+        <div class="board-title">Ships</div>
+        @foreach (var ship in gameManager.Ships)
+        {
+            <div class="ship @(ship.IsHorizontal ? "horizontal" : "vertical")">
+                @for (int i = 0; i < ship.Length; i++)
+                {
+                    <div class="ship-cell"></div>
+                }
+            </div>
+        }
+    </div>
+
+    <div class="board-container">
+        <div class="board-title">Opponent's Board</div>
+        <canvas id="opponentBoard" width="500" height="500"></canvas>
+    </div>
+</div>
+
+<div class="instructions">
+    Place your ships manually or click "Randomize Board". Then click the opponent's board to attack!
+</div>
+
+@code {
+    private GameManager gameManager = new();
+
+    private void RestartGame() => gameManager.RestartGame();
+    private void RandomizeBoard() => gameManager.RandomizeBoard();
+    private void ToggleDirection() => gameManager.ToggleDirection();
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            // Setup JS interop for drawing on canvas
+            await JS.InvokeVoidAsync("initializeBoards");
+        }
+    }
+}

@@ -5,7 +5,7 @@
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
     },
     {
-      "Id": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/9fx8ddx1s2.gz",
+      "Id": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/c9to0mb1pu.gz",
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
     },
     {
@@ -35,6 +35,10 @@
     {
       "Id": "/home/jonorl/Git/Odin/battleship-csharp/wwwroot/index.html",
       "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/jonorl/Git/Odin/battleship-csharp/wwwroot/interop.js",
+      "PackagePath": "staticwebassets/interop.js"
     },
     {
       "Id": "/home/jonorl/Git/Odin/battleship-csharp/wwwroot/sample-data/weather.json",

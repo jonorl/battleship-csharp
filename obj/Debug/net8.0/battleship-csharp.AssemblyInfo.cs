@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("battleship-csharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+927d4287c138279dca4be61fa7f0b70a2cb4e609")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8fb25eea4a2add787dcd3d3b73db9c48ac9dd83")]
 [assembly: System.Reflection.AssemblyProductAttribute("battleship-csharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("battleship-csharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
