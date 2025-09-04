@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/9fx8ddx1s2.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/scopedcss/bundle/battleship-csharp.styles.css",
+      "PackagePath": "staticwebassets/battleship-csharp.styles.css"
+    },
+    {
+      "Id": "/home/jonorl/Git/Odin/battleship-csharp/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/jonorl/Git/Odin/battleship-csharp/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/jonorl/Git/Odin/battleship-csharp/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/jonorl/Git/Odin/battleship-csharp/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/jonorl/Git/Odin/battleship-csharp/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/jonorl/Git/Odin/battleship-csharp/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/jonorl/Git/Odin/battleship-csharp/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.battleship-csharp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.battleship-csharp.props",
+      "PackagePath": "build\\battleship-csharp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.battleship-csharp.props",
+      "PackagePath": "buildMultiTargeting\\battleship-csharp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.battleship-csharp.props",
+      "PackagePath": "buildTransitive\\battleship-csharp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Battleship - C# Canvas</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="controls">
+      <button onclick="gameManager.restartGame()">Restart Game</button>
+      <button onclick="gameManager.randomizeBoard()">Randomize Board</button>
+      <button onclick="gameManager.toggleDirection()">Toggle Direction</button>
+    </div>
+
+    <div class="game-container">
+      <div class="board-container">
+        <div class="board-title">Player's Board</div>
+        <canvas id="playerBoard" width="500" height="500"></canvas>
+      </div>
+
+      <div class="ships-panel">
+        <div class="board-title">Ships</div>
+        <div class="ship-container" id="shipsContainer">
+          <div
+            class="ship horizontal"
+            data-length="5"
+            data-ship-id="0"
+            draggable="true"
+          >
+            <div class="ship-cell"></div>
+            <div class="ship-cell"></div>
+            <div class="ship-cell"></div>
+            <div class="ship-cell"></div>
+            <div class="ship-cell"></div>
+          </div>
+          <div
+            class="ship horizontal"
+            data-length="4"
+            data-ship-id="1"
+            draggable="true"
+          >
+            <div class="ship-cell"></div>
+            <div class="ship-cell"></div>
+            <div class="ship-cell"></div>
+            <div class="ship-cell"></div>
+          </div>
+          <div
+            class="ship horizontal"
+            data-length="3"
+            data-ship-id="2"
+            draggable="true"
+          >
+            <div class="ship-cell"></div>
+            <div class="ship-cell"></div>
+            <div class="ship-cell"></div>
+          </div>
+          <div
+            class="ship horizontal"
+            data-length="2"
+            data-ship-id="3"
+            draggable="true"
+          >
+            <div class="ship-cell"></div>
+            <div class="ship-cell"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="board-container">
+        <div class="board-title">Opponent's Board</div>
+        <canvas id="opponentBoard" width="500" height="500"></canvas>
+      </div>
+    </div>
+
+    <div class="instructions" id="instructions">
+      Place your ships by dragging them to your board, or click "Randomize
+      Board". Then click on the opponent's board to start attacking!
+    </div>
+
+    <script src="gamelogic.js"></script>
+  </body>
+</html>
