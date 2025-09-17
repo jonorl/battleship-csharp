@@ -53,3 +53,20 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# C# General
+*bin/ 
+*obj/
+
+# ASP.NET
+C#
+
+General
+
+*bin/ *obj/
+
+#ASP.NET
+
+*appsettings.Development.json 
+*appsettings.Production.json 
+*Properties/launchSettings.json
