@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lAdCc5rm/wRb+rVE6x2RWrRq5NI1d0I2VBaXSQYKm5Q=",
+  "Hash": "NHzjwihWWDKf9x3xIZF7rjcYTP5eX/DKPp6cLdaCmcY=",
   "Source": "battleship-csharp",
   "BasePath": "/",
   "Mode": "Root",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/jonorl/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.19/runtimes/browser-wasm/native/dotnet.js"
+      "OriginalItemSpec": "/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.19/runtimes/browser-wasm/native/dotnet.js"
     },
     {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.js.map",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/jonorl/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.19/runtimes/browser-wasm/native/dotnet.js.map"
+      "OriginalItemSpec": "/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.19/runtimes/browser-wasm/native/dotnet.js.map"
     },
     {
-      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.19.f8njbybmha.js",
+      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.19.e2idinw6zd.js",
       "SourceId": "battleship-csharp",
       "SourceType": "Computed",
       "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.19.f8njbybmha.js",
+      "RelativePath": "_framework/dotnet.native.8.0.19.e2idinw6zd.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/jonorl/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.19/runtimes/browser-wasm/native/dotnet.native.js"
+      "OriginalItemSpec": "/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.19/runtimes/browser-wasm/native/dotnet.native.js"
     },
     {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.wasm",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/jonorl/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.19/runtimes/browser-wasm/native/dotnet.native.wasm"
+      "OriginalItemSpec": "/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.19/runtimes/browser-wasm/native/dotnet.native.wasm"
     },
     {
-      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.19.yt3y60gxdy.js",
+      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.19.fuw8bil2cq.js",
       "SourceId": "battleship-csharp",
       "SourceType": "Computed",
       "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.19.yt3y60gxdy.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.19.fuw8bil2cq.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +185,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/jonorl/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.19/runtimes/browser-wasm/native/dotnet.runtime.js"
+      "OriginalItemSpec": "/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.19/runtimes/browser-wasm/native/dotnet.runtime.js"
     },
     {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.js.map",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/jonorl/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.19/runtimes/browser-wasm/native/dotnet.runtime.js.map"
+      "OriginalItemSpec": "/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.19/runtimes/browser-wasm/native/dotnet.runtime.js.map"
     },
     {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/icudt_CJK.dat",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/jonorl/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.19/runtimes/browser-wasm/native/icudt_CJK.dat"
+      "OriginalItemSpec": "/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.19/runtimes/browser-wasm/native/icudt_CJK.dat"
     },
     {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/icudt_EFIGS.dat",
@@ -242,7 +242,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/jonorl/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.19/runtimes/browser-wasm/native/icudt_EFIGS.dat"
+      "OriginalItemSpec": "/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.19/runtimes/browser-wasm/native/icudt_EFIGS.dat"
     },
     {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/icudt_no_CJK.dat",
@@ -261,7 +261,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/jonorl/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/8.0.19/runtimes/browser-wasm/native/icudt_no_CJK.dat"
+      "OriginalItemSpec": "/usr/share/dotnet/packs/Microsoft.NETCore.App.Runtime.Mono.browser-wasm/8.0.19/runtimes/browser-wasm/native/icudt_no_CJK.dat"
     },
     {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.wasm",
@@ -4311,25 +4311,6 @@
       "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.ComponentModel.Annotations.wasm"
     },
     {
-      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/4np1lj4z3e.gz",
-      "SourceId": "battleship-csharp",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.js.map"
-    },
-    {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/4spfazqnil.gz",
       "SourceId": "battleship-csharp",
       "SourceType": "Computed",
@@ -5261,6 +5242,25 @@
       "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Runtime.Numerics.wasm"
     },
     {
+      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/c9j306jj9r.gz",
+      "SourceId": "battleship-csharp",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/icudt_no_CJK.dat"
+    },
+    {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/c9to0mb1pu.gz",
       "SourceId": "battleship-csharp",
       "SourceType": "Computed",
@@ -5375,6 +5375,25 @@
       "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/netstandard.wasm"
     },
     {
+      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/da0gftmi9m.gz",
+      "SourceId": "battleship-csharp",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.wasm"
+    },
+    {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/daunlhbwa7.gz",
       "SourceId": "battleship-csharp",
       "SourceType": "Computed",
@@ -5470,23 +5489,23 @@
       "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Text.Encoding.CodePages.wasm"
     },
     {
-      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/e68ob49oxq.gz",
+      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/e2idinw6zd.gz",
       "SourceId": "battleship-csharp",
       "SourceType": "Computed",
       "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "RelativePath": "_framework/dotnet.native.8.0.19.e2idinw6zd.js.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/icudt_CJK.dat",
+      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.19.e2idinw6zd.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/icudt_CJK.dat"
+      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.19.e2idinw6zd.js"
     },
     {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/ef3mpfpfau.gz",
@@ -5603,25 +5622,6 @@
       "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/Microsoft.CSharp.wasm"
     },
     {
-      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/f8njbybmha.gz",
-      "SourceId": "battleship-csharp",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.19.f8njbybmha.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.19.f8njbybmha.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.8.0.19.f8njbybmha.js"
-    },
-    {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/fr5d6vdrfj.gz",
       "SourceId": "battleship-csharp",
       "SourceType": "Computed",
@@ -5639,6 +5639,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.ValueTuple.wasm"
+    },
+    {
+      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/fuw8bil2cq.gz",
+      "SourceId": "battleship-csharp",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.19.fuw8bil2cq.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.19.fuw8bil2cq.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.19.fuw8bil2cq.js"
     },
     {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/fysp5ca1rh.gz",
@@ -5907,6 +5926,25 @@
       "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Private.DataContractSerialization.wasm"
     },
     {
+      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/ic7enh1f5h.gz",
+      "SourceId": "battleship-csharp",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.js.map"
+    },
+    {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/idpsud3t2e.gz",
       "SourceId": "battleship-csharp",
       "SourceType": "Computed",
@@ -6000,6 +6038,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Net.Sockets.wasm"
+    },
+    {
+      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/ixpotk87g4.gz",
+      "SourceId": "battleship-csharp",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.js"
     },
     {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/j0cnj011p2.gz",
@@ -6420,25 +6477,6 @@
       "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.ComponentModel.Primitives.wasm"
     },
     {
-      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/m1jczaiaso.gz",
-      "SourceId": "battleship-csharp",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.native.wasm"
-    },
-    {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/m7fucegkd9.gz",
       "SourceId": "battleship-csharp",
       "SourceType": "Computed",
@@ -6551,25 +6589,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Security.Cryptography.Encoding.wasm"
-    },
-    {
-      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/mx6qk874jy.gz",
-      "SourceId": "battleship-csharp",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.js.map"
     },
     {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/n02k5q6tzq.gz",
@@ -6686,6 +6705,25 @@
       "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Linq.Queryable.wasm"
     },
     {
+      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/o806cvbn8m.gz",
+      "SourceId": "battleship-csharp",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/icudt_EFIGS.dat"
+    },
+    {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/ocilddddsk.gz",
       "SourceId": "battleship-csharp",
       "SourceType": "Computed",
@@ -6743,25 +6781,6 @@
       "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Net.WebClient.wasm"
     },
     {
-      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/oleenrrie4.gz",
-      "SourceId": "battleship-csharp",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/icudt_no_CJK.dat"
-    },
-    {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/op5svfkn94.gz",
       "SourceId": "battleship-csharp",
       "SourceType": "Computed",
@@ -6781,23 +6800,23 @@
       "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Runtime.Serialization.Xml.wasm"
     },
     {
-      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/p9vzgabndc.gz",
+      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/oyxd1vhnjo.gz",
       "SourceId": "battleship-csharp",
       "SourceType": "Computed",
       "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
+      "RelativePath": "_framework/dotnet.js.map.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.js",
+      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.js.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.js"
+      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.js.map"
     },
     {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/pbe9f9zran.gz",
@@ -6950,6 +6969,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Security.Cryptography.Primitives.wasm"
+    },
+    {
+      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/qzj5p1m0a4.gz",
+      "SourceId": "battleship-csharp",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/icudt_CJK.dat"
     },
     {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/r60vmrpguy.gz",
@@ -7541,25 +7579,6 @@
       "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Reflection.Emit.Lightweight.wasm"
     },
     {
-      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/xnal0j54h8.gz",
-      "SourceId": "battleship-csharp",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/icudt_EFIGS.dat"
-    },
-    {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/y85iixhy9r.gz",
       "SourceId": "battleship-csharp",
       "SourceType": "Computed",
@@ -7634,25 +7653,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/System.Net.Mail.wasm"
-    },
-    {
-      "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/yt3y60gxdy.gz",
-      "SourceId": "battleship-csharp",
-      "SourceType": "Computed",
-      "ContentRoot": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.19.yt3y60gxdy.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.19.yt3y60gxdy.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/jonorl/Git/Odin/battleship-csharp/bin/Debug/net8.0/wwwroot/_framework/dotnet.runtime.8.0.19.yt3y60gxdy.js"
     },
     {
       "Identity": "/home/jonorl/Git/Odin/battleship-csharp/obj/Debug/net8.0/compressed/yz850c76g0.gz",
