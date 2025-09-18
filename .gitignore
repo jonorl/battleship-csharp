@@ -57,6 +57,7 @@ dkms.conf
 # C# General
 *bin/ 
 *obj/
+obj/Debug
 
 # ASP.NET
 C#
